@@ -15,9 +15,10 @@ I'm a Front-end Software Developer, (htm, css, js, react), Backend/Api developer
 
 
 - 😊 Pronouns: Her/she
-- am software developer
-- 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxafrica.com/software-engineering-2022/) Class of 2022.
+- I am software developer
+- 💡 Fun fact: I love to dance, but can't.
 - 🌱 I’m currently a Junior Software Developer at ICIT Solutions Nigeria.
+- I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxafrica.com/software-engineering-2022/) Class of 2022.
 - 💼 Job interests: Front-end development (Intermidiate), api development(junior).
 - 📫 You can [view my resume](#) and contact me by emailing gdennar@yahoo.co.uk.
 
