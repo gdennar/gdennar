@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @gdennar
-- 👀 I’m interested in working with a great innovate team
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on exciting projects that will enhance my skills (html, css, boothstrap, javascript) 
-- 📫 Reach me via email @gdennar@yahoo.co.uk
+# Hello there; welcome 👋🏾
 
-<!---
-gdennar/gdennar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-golden-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/golden-dennar-1b11ab9a)](https://www.linkedin.com/in/golden-dennar-1b11ab9a/) [![Twitter Badge](https://img.shields.io/badge/-@mycode_journey-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mycode_journey)](https://twitter.com/mycode_journey)
+
+
+
+I'm a Front-end Software Developer, (htm, css, js, react), backend/api developer (.net core(junior))
+
+
+
+**Here's a quick summary about me**:
+
+
+
+- 😊 Pronouns: Her/she
+- am software developer
+- 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxafrica.com/software-engineering-2022/) Class of 2022.
+- 🌱 I’m currently a Junior Software Developer at ICIT Solutions Nigeria.
+- 💼 Job interests: Front-end development (Intermidiate), api development(junior).
+- 📫 You can [view my resume](#) and contact me by emailing gdennar@yahoo.co.uk.
+
+
+
+---
+
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gdennar&show_icons=true&include_all_commits=true&hide_border=true" alt="gdennar's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdennar&langs_count=8&layout=compact&hide_border=true" alt="gdennar's GitHub stats" /> |
+| ------------- | ------------- |
