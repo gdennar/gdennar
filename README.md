@@ -6,7 +6,7 @@
 
 
 
-I'm a Front-end Software Developer, (htm, css, js, react), backend/api developer (.net core(junior))
+I'm a Front-end Software Developer, (htm, css, js, react), Backend/Api developer (Asp.net core(junior))
 
 
 
